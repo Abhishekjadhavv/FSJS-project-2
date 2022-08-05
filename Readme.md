@@ -8,5 +8,5 @@ thanku so much [INeuron](https://ineuron.ai "INeuron") for design this web page 
 
 I have finished this project within 40 minutes.
 
-[project-link](http://itsabhi.ml)
+[website link](abhi2.netlify.app "project-link")
 
